@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test</title>
+</head>
+<body>
+    <h1>Testing Skills and Projects Loading</h1>
+    <div id="skillsContainer"></div>
+    <div id="work">
+        <div class="box-container"></div>
+    </div>
+    
+    <script>
+        console.log("Test page loaded");
+        
+        // Test fetch
+        fetch('skills.json')
+            .then(response => {
+                console.log('Skills response:', response);
+                return response.json();
+            })
+            .then(data => {
+                console.log('Skills data:', data);
+            })
+            .catch(error => {
+                console.error('Skills error:', error);
+            });
+            
+        fetch('projects/projects.json')
+            .then(response => {
+                console.log('Projects response:', response);
+                return response.json();
+            })
+            .then(data => {
+                console.log('Projects data:', data);
+            })
+            .catch(error => {
+                console.error('Projects error:', error);
+            });
+    </script>
+</body>
+</html>
