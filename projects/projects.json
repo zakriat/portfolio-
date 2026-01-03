@@ -1,0 +1,92 @@
+[
+  {
+    "name": "CRM Case Management System",
+    "desc": "Comprehensive case management CRM with document management, workflow automation, and role-based access control. Built using Laravel and Vue.js.",
+    "image": "portfolio1",
+    "category": "laravel",
+    "links": {
+      "view": "https://crm.cosmodoctors.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Restaurant POS System",
+    "desc": "Full-stack restaurant management system with POS integration serving 50+ restaurant clients. Built with Laravel and Vue.js.",
+    "image": "flipkartmern",
+    "category": "laravel",
+    "links": {
+      "view": "https://dinebook.co.uk",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Clinic Management System",
+    "desc": "Comprehensive clinic management system with appointment scheduling, patient records, and SMS notifications using RESTful APIs.",
+    "image": "reactprojects",
+    "category": "laravel",
+    "links": {
+      "view": "https://medicsdiary.co.uk",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Review Collection Application",
+    "desc": "Automated review collection application with email integration and analytics dashboard, processing 500+ reviews monthly.",
+    "image": "instagrammern",
+    "category": "laravel",
+    "links": {
+      "view": "https://legal-reviews.org",
+      "code": "#"
+    }
+  },
+  {
+    "name": "LeadPort CRM",
+    "desc": "Production CRM application built in Laravel & JavaScript with 99.9% uptime serving 500+ users. Features real-time search and filtering.",
+    "image": "flipkartphp",
+    "category": "laravel",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Operail Management System",
+    "desc": "Enterprise management system built with Laravel and JavaScript. Includes AI email parsing system handling 1000+ daily emails with 95% accuracy.",
+    "image": "webuiclones",
+    "category": "laravel",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "eCommerce Platform",
+    "desc": "Full-featured eCommerce platform with real-time search and filtering, boosting conversion rates by 25%. Built with Laravel and Vue.js.",
+    "image": "hulu",
+    "category": "laravel",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Data Analytics Dashboard",
+    "desc": "Python-based dashboard for analyzing 50K+ records using NumPy, Pandas, and Matplotlib to provide business insights.",
+    "image": "cryptotracker",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website showcasing full-stack development skills. Built with modern web technologies and responsive design.",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/zakriatunio/portfolio"
+    }
+  }
+]

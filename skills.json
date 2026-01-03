@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Vue.js",
+        "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/fluency/48/000000/laravel.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.svg.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Inertia.js",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux--v1.png"
+    },
+    {
+        "name": "RESTful APIs",
+        "icon": "https://img.icons8.com/color/48/000000/api-settings.png"
+    },
+    {
+        "name": "CI/CD",
+        "icon": "https://img.icons8.com/color/48/000000/continuous-integration.png"
+    }
+]
